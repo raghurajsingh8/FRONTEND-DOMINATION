@@ -1,0 +1,16 @@
+.line1{
+line-height: 1;
+text-align: left;
+}
+.line2{
+  line-height: 2;
+  text-align: right;
+  }
+  .line3{
+    line-height: 3;
+    text-align: center;
+    }
+    .line4{
+      line-height: 4;
+      text-align: justify;
+      }
